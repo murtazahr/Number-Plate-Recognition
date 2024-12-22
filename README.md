@@ -25,9 +25,7 @@ More implementation details are given below for the knowledge of the user.
 This section can be split into three parts; localization of the number plate, skeletonization of the content and segmentation of
 the characters. The program flow for this script is as follows:
 
-[![QF8KFY.md.png](https://i.im.ge/2021/08/28/QF8KFY.md.png)](https://im.ge/i/QF8KFY)
-
-Please open the image in a new tab if it's not clear.
+![architecture-img-1](https://github.com/user-attachments/assets/3480555a-b683-47dc-9dd7-ae49cf37685c)
 
 
 ## Text Recognition
@@ -52,7 +50,7 @@ similarities and 1 is complete similarity.
 
 The overall flow of this implementation is given in the flowchart below:
 
-[![QF8VjD.md.png](https://i.im.ge/2021/08/28/QF8VjD.md.png)](https://im.ge/i/QF8VjD)
+![architecture-img-2](https://github.com/user-attachments/assets/587ef52e-1214-4765-9b1b-6137d313ac3b)
 
 ### II. Machine Learning
 
@@ -69,7 +67,7 @@ to make predictions on input images from the segmented number plates.
 
 The overall flow of this implementation is given in the flowchart below:
 
-[![QF8fR4.md.png](https://i.im.ge/2021/08/28/QF8fR4.md.png)](https://im.ge/i/QF8fR4)
+![architecture-img-3](https://github.com/user-attachments/assets/3d87f593-1d6c-4bf1-8ef6-3c86e0927a01)
 
 ## Installation Instructions
 
@@ -83,5 +81,4 @@ The overall flow of this implementation is given in the flowchart below:
 
 
 ## Contribute
-- Show your support by ⭐ the project.
 - Submit pull requests and improve the repo overall quality
